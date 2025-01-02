@@ -4,7 +4,7 @@ This is my portfolio made in HTML, CSS and Javascript.
 ## Autor
 **Mateo Julio Gomero Rios**
 
-* [LinkedIn] (https://www.linkedin.com/in/mateojuliogomerorios/)
+* [LinkedIn](https://www.linkedin.com/in/mateojuliogomerorios/)
 * [Portfolio web] (In progress...)
 
 ## Installation
